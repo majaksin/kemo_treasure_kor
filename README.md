@@ -70,6 +70,8 @@ If the file name is Japanese, it may not be recognized, so we changed the files 
 I just modified the file name so that it can be recognized.
 
 
+
+
 Why do I have to run it in Korean locale?
 
 If you run the Japanese game in Korean, the broken Korean will be printed instead of Japanese.
@@ -89,6 +91,8 @@ If you run this in a Korean locale, the strange Japanese is broken so that the c
 ただファイル名を認識できるように修正しただけです。
 
 
+
+
 なぜ韓国ロケールで実行しなければなりませんか?
 
 日本語ゲームを韓国語で実行すると日本語の代わりに文字化けしたハングルが出力されます。
@@ -106,6 +110,8 @@ If you run this in a Korean locale, the strange Japanese is broken so that the c
 파일명이 일본어일 경우 인식이 안 되는 경우가 있기 때문에, 해당 오류가 있는 파일을 한국어 파일명으로 변경하였습니다.
 
 단지 파일 이름을 인식할 수 있도록 수정했을 뿐입니다.
+
+
 
 
 왜 한국 로케일에서 실행해야 합니까?

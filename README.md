@@ -62,34 +62,58 @@ Not jpn locale. Not eng locale. <-- Korean characters are broken.
 일본 로케일이 아닙니다. 영어 로케일도 아닙니다. <- 하면 글자가 깨집니다.
 
 # QnA
+
 Why is this patch file has voice file?
+
 If the file name is Japanese, it may not be recognized, so we changed the files with the error to Korean file name.
+
 I just modified the file name so that it can be recognized.
 
+
 Why do I have to run it in Korean locale?
+
 If you run the Japanese game in Korean, the broken Korean will be printed instead of Japanese.
+
 I took advantage of this.
+
 The patch file consists of strange Japanese words that make no sense.
+
 If you run this in a Korean locale, the strange Japanese is broken so that the correct Korean is printed.
 
 # QnA
+
 パッチファイルに音声ファイルがある理由は何ですか？
+
 ファイル名が日本語の場合、認識されない場合がありますので、該当するエラーがあるファイルを韓国語ファイル名に変更しました。
+
 ただファイル名を認識できるように修正しただけです。
 
+
 なぜ韓国ロケールで実行しなければなりませんか?
+
 日本語ゲームを韓国語で実行すると日本語の代わりに文字化けしたハングルが出力されます。
+
 私はこの原理を利用した。
+
 パッチファイルはとんでもない不思議な日本語で構成されています。
+
 これを韓国語ロケールで実行すると変な日本語が文字化けして正しいハングルが出力されます。
 
 # QnA
+
 패치 파일에 음성 파일이 있는 이유는 무엇입니까?
+
 파일명이 일본어일 경우 인식이 안 되는 경우가 있기 때문에, 해당 오류가 있는 파일을 한국어 파일명으로 변경하였습니다.
+
 단지 파일 이름을 인식할 수 있도록 수정했을 뿐입니다.
 
+
 왜 한국 로케일에서 실행해야 합니까?
+
 일본어 게임을 한국어로 실행하면 일본어 대신 깨진 한글이 출력됩니다.
+
 나는 이 원리를 이용했다.
+
 패치 파일은 말도 안 되는 이상한 일본어로 구성되어 있습니다.
+
 이것을 한국어 로케일로 실행하면 이상한 일본어가 깨져서 올바른 한글이 출력됩니다.

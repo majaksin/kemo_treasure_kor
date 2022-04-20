@@ -8,6 +8,8 @@ path5_final_fixed_edit.zip is korean path file.
 
 311.png ~ 314.png are the actual working screens.
 
+We inform you that all works of this game are by the original author and that the translator has no rights.
+
 # kemo_module_kor
 
 111.pngと222.pngは購入証明写真です。
@@ -18,6 +20,8 @@ path5_final_fixed_edit.zipは韓国語パッチファイルです。
 
 311.png~314.pngは実際に動作している画面です。
 
+本ゲームの著作物はすべて原作者にあり、翻訳者にはいかなる権利もないことをお知らせします。
+
 # kemo_module_kor
 
 111.png과 222.png은 구매 증명 사진입니다.
@@ -27,6 +31,8 @@ path5_final_fixed_edit.zip은 한국어 패치파일입니다.
 (패치 파일만 존재하며 게임파일은 없습니다. 구입하세요. https://www.dlsite.com/maniax/work/=/product_id/RJ269588.html)
 
 311.png~314.png 는 실제로 동작하고 있는 화면 입니다.
+
+본 게임의 저작물은 모두 원작자에게 있으며, 번역자에겐 어떠한 권리도 없음을 알립니다.
 
 # How to path
 

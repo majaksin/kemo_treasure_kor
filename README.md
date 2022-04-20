@@ -69,8 +69,7 @@ If the file name is Japanese, it may not be recognized, so we changed the files 
 
 I just modified the file name so that it can be recognized.
 
-
-
+_
 
 Why do I have to run it in Korean locale?
 
@@ -90,8 +89,7 @@ If you run this in a Korean locale, the strange Japanese is broken so that the c
 
 ただファイル名を認識できるように修正しただけです。
 
-
-
+_
 
 なぜ韓国ロケールで実行しなければなりませんか?
 
@@ -111,8 +109,7 @@ If you run this in a Korean locale, the strange Japanese is broken so that the c
 
 단지 파일 이름을 인식할 수 있도록 수정했을 뿐입니다.
 
-
-
+_
 
 왜 한국 로케일에서 실행해야 합니까?
 
